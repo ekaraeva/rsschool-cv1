@@ -1,10 +1,15 @@
 # Ekaterina Karaeva
+![](IMG_0491.JPG)
 ## Contacts
 * Location: Gomel, Belarus
 * email: ekaterinadanilenko95@gmail.com
 * GitHub: @ekaraeva
 ## About me
-
+* Personal qualities: 
+   * analytic mind;
+   * developed sense of self-control;
+   * pedantry;
+   * accuracy.
 ## Skills
 * Html
 * CSS
