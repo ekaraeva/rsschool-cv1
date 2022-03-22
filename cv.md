@@ -1,5 +1,5 @@
 # Ekaterina Karaeva
-![](IMG_0491.JPG)
+![](foto.jpg)
 ## Contacts
 * Location: Gomel, Belarus
 * email: ekaterinadanilenko95@gmail.com
