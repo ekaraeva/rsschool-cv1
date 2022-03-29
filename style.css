@@ -1,0 +1,33 @@
+img{
+    width: 300px;
+    box-shadow: 3px 0px 20px 0px rgba(34, 60, 80, 0.2);
+    
+    
+    
+}
+section{
+    background: linear-gradient(90deg, rgb(234, 255, 250) 60%, rgb(160, 216, 217));
+    display: grid;
+    grid-template-columns: 310px 200px 200px;
+    grid-template-rows: 100px 100px 100px;
+    grid-template-areas:"p1 p3 p3"
+                        "p1 p4 p5"
+                        "p2 p4 p5";
+   
+}
+img{
+    grid-area: p1;
+}
+h1{
+    grid-area: p2;
+    margin: 0;
+}
+.contacts{
+    grid-area: p3;
+}
+.skills{
+    grid-area: p4;
+}
+.personal_qualities{
+    grid-area: p5;
+}
