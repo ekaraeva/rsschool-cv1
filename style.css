@@ -1,9 +1,6 @@
 img{
     width: 300px;
-    box-shadow: 3px 0px 20px 0px rgba(34, 60, 80, 0.2);
-    
-    
-    
+    box-shadow: 3px 0px 20px 0px rgba(34, 60, 80, 0.3);
 }
 section{
     background: linear-gradient(90deg, rgb(234, 255, 250) 60%, rgb(160, 216, 217));
@@ -13,7 +10,6 @@ section{
     grid-template-areas:"p1 p3 p3"
                         "p1 p4 p5"
                         "p2 p4 p5";
-   
 }
 img{
     grid-area: p1;
